@@ -10,7 +10,7 @@
 
 ### Description of the database and scripts in accordance with the task1
 - Task1 description is available in the task1 directory [task1.docx](./task1/task1.docx)
-- ER diagram is available in the task1 directory [ERD.pdf](./task1/ERD.pdf) and via link: https://dbdiagram.io/d/64773a59722eb774942440cb
+- ER diagram is available in the task1 directory [ERD.pdf](./task1/ERD.pdf) and via link (interactive): https://dbdiagram.io/d/64773a59722eb774942440cb
 - DB schema is available in the task1 directory [db_schema.png](./task1/db_schema.png)
 - SQL scripts that create tables, keys, and constraints in the database are here [create_tables.sql](./task1/scripts/create_tables.sql)
 - SQL scripts that populate the tables with sample data are here [insert_data.sql](./task1/scripts/insert_data.sql)
@@ -31,9 +31,7 @@
 
 ## Task 2
 
-### Description of the database and scripts in accordance with the task2
 - Task2 description is available in the task2 directory [task2.docx](./task2/task2.docx)
-- I did not use JDBC or ODBC drivers to connect to the database since source files are in CSV format.
 - Python script that reads data from CSV files via pyspark dataframe is here [task2.py](./task2/task2.py)
 
 ### Running the script
